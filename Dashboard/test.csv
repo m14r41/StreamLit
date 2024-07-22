@@ -1,0 +1,36 @@
+Order Date,Region,State,City,Amount,Category,Sales
+2023-01-01,East,New York,New York City,100,A,300
+2023-01-02,East,New York,Albany,150,B,250
+2023-01-03,East,New Jersey,Jersey City,200,C,350
+2023-01-04,West,California,Los Angeles,120,D,270
+2023-01-05,West,California,San Francisco,180,E,380
+2023-01-06,West,Washington,Seattle,250,F,420
+2023-01-07,East,Pennsylvania,Philadelphia,220,G,390
+2023-01-08,West,Washington,Spokane,160,H,280
+2023-01-09,East,New Jersey,Newark,190,I,320
+2023-01-10,West,California,San Diego,210,J,370
+2023-01-11,East,New York,Rochester,140,K,300
+2023-01-12,West,Oregon,Portland,230,L,400
+2023-01-13,East,Massachusetts,Boston,270,M,450
+2023-01-14,West,California,Sacramento,200,N,360
+2023-01-15,East,New York,Buffalo,180,O,340
+2023-01-16,West,Nevada,Las Vegas,300,P,500
+2023-01-17,East,Connecticut,Hartford,250,Q,410
+2023-01-18,West,Colorado,Denver,190,R,330
+2023-01-19,East,Virginia,Richmond,280,S,470
+2023-01-20,West,Arizona,Phoenix,240,T,390
+2023-01-21,East,New York,Syracuse,170,U,320
+2023-01-22,West,California,Fresno,260,V,420
+2023-01-23,East,New Jersey,Paterson,150,W,300
+2023-01-24,West,Washington,Bellevue,220,X,380
+2023-01-25,East,Pennsylvania,Pittsburgh,200,Y,360
+2023-01-26,West,Oregon,Eugene,280,Z,450
+2023-01-27,East,Massachusetts,Cambridge,300,A,500
+2023-01-28,West,California,Long Beach,170,B,310
+2023-01-29,East,New York,Yonkers,250,C,420
+2023-01-30,West,Nevada,Reno,190,D,340
+2023-01-31,East,Connecticut,Stamford,220,E,380
+2023-02-01,West,Colorado,Colorado Springs,260,F,430
+2023-02-02,East,Virginia,Arlington,180,G,360
+2023-02-03,West,Arizona,Tucson,300,H,520
+2023-02-04,East,New York,White Plains,190,I,350
