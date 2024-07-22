@@ -45,9 +45,9 @@ def main():
     st.title("Streamlit Dashboard Menu")
 
     st.sidebar.title("Select Script to Run")
-    script_to_run = st.sidebar.selectbox("Choose a script", ["tables", "main", "app", "tables2","graph"])
+    script_to_run = st.sidebar.selectbox("Select Application", ["tables", "main", "app", "tables2","graph"])
 
-    if st.sidebar.button("Run Script"):
+    if st.sidebar.button("Run Page"):
         run_script(script_to_run)
 
 if __name__ == "__main__":
